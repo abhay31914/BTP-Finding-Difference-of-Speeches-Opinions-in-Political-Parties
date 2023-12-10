@@ -1,0 +1,1 @@
+Analysing the opinions and reactions of political parties and leaders toward various events in India using NLP techniques.
